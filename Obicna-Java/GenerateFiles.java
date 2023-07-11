@@ -7,6 +7,10 @@ public class GenerateFiles {
 //TODO: Вредноститет да не се од 0-50 туку различни и големи
 //-GenerateFiles: Каде што ќе го генерира фајлот со 500 000 записи и ќе го зачува на локација
 
+
+    //English:
+    //We need to create a file generator, where the file has 500 000 records
+    //this is the whole class for doing that
     public static void generateFile() {
 
         try {
